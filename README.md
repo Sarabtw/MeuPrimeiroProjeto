@@ -1,8 +1,5 @@
 # MeuPrimeiroProjeto
-<<<<<<< HEAD
 ![alt text](image-1.png)
-
-=======
 ![alt text](image.png)
 
 ### O que é o jogo Pedra, Papel e Tesoura?
@@ -94,4 +91,4 @@ cd MeuPrimeiroCommit/
 ### Mostrar pastas existentes:
 dir
 
->>>>>>> 0f0dea2cc0db2dc9347bb630f63d08be73b75528
+
